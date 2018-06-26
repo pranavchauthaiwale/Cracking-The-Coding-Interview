@@ -1,4 +1,4 @@
-package Chapter04.GraphUtils;
+package Chapter04.Utils;
 
 public class GraphUtils {
     private static final int MAX_ELEMENTS = 9;

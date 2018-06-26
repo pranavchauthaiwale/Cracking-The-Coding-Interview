@@ -1,6 +1,6 @@
 package Chapter04;
 
-import Chapter04.GraphUtils.GraphUtils;
+import Chapter04.Utils.GraphUtils;
 
 import java.util.LinkedList;
 import java.util.Queue;
