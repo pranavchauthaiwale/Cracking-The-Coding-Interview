@@ -35,6 +35,6 @@ public class LinkedListUtils {
             System.out.print(head.getData() + " ");
             head = head.getNext();
         }
-        System.out.print("]");
+        System.out.println("]");
     }
 }

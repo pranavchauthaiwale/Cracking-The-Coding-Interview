@@ -11,7 +11,7 @@ public class RemoveDups {
         ListNode head = LinkedListUtils.getLinkedListWithDuplicates();
         LinkedListUtils.printLinkedList(head);
         removeDuplicatesFromLinkedList(head);
-        System.out.println("\nAfter removing duplicates : ");
+        System.out.println("After removing duplicates : ");
         LinkedListUtils.printLinkedList(head);
     }
 
